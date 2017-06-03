@@ -1,0 +1,21 @@
+body {
+	background: url(https://files.slack.com/files-pri/T413U3P0W-F5MMHS849/frank-mckenna-141316.jpg);
+	
+	background-size: cover;
+	opacity: 50%;
+}
+
+#main-container {
+	text-align: center;
+	margin-top: 200px;
+}
+
+#search-bar {
+	width: 700px;
+	border-radius: 5px;
+}
+
+#search-bar:focus {
+	background-color: blue;
+
+}
